@@ -1,6 +1,6 @@
 # React-Portfolio-App
  React Portfolio
- <h2>@itskerem4<h2>
+ <h2>@itskerem4</h2>
  Follow Me !
  <a href="https://instagram.com/itskerem4">İnstagram</a>
  <a href="https://twitter/itskerem4">Twitter</a>
