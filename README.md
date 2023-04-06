@@ -2,7 +2,7 @@
  React Portfolio
  Desktop :
  <br><center>
-<img src"https://github.com/itskerem4/React-Portfolio-App/blob/main/src/img/ScreenShootPc.png"/>
+<img src="https://github.com/itskerem4/React-Portfolio-App/blob/main/src/img/ScreenShootPc.png"/>
 </center>
 Mobile :
 <br><center>
