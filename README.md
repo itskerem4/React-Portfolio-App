@@ -6,8 +6,9 @@
  <a href="https://twitter/itskerem4">Twitter</a>
  <a href="https://linkedin/in/itskerem4">linkedin</a>
  <a href="https://linktr.ee/itskerem4">Linktr</a>
+ <br/>
  Desktop :
- <br><center>
+ <br/><center>
 <img src="https://github.com/itskerem4/React-Portfolio-App/blob/main/src/img/ScreenShootPc.png"/>
 </center>
 Mobile :
